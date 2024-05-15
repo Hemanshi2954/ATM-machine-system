@@ -1,10 +1,10 @@
-ATM Machine System:
+# ATM Machine System:
 
-##This code simulates basic ATM functionality for educational purposes. It's not intended for real-world financial transactions due to security limitations.
-##Uploading code with sensitive information like hardcoded account details is not recommended. Consider using placeholders and environment variables for security.
+## This code simulates basic ATM functionality for educational purposes. It's not intended for real-world financial transactions due to security limitations.
+## Uploading code with sensitive information like hardcoded account details is not recommended. Consider using placeholders and environment variables for security.
 
 
-Code Structure:
+## Code Structure:
 
 The code will be organized into multiple files for better readability and maintainability:
 
